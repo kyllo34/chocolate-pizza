@@ -15,3 +15,18 @@ span {
   float: left;
 }
 
+#pizza {
+  float: none;
+}
+.recipe {
+  background-image: url(img/list-bg.png); 
+}
+ul{
+  list-style-type: none;
+}
+#img-van{
+  float: left;
+}
+#vanessa{
+  font-size: medium;
+}
