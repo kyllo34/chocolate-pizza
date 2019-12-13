@@ -1,0 +1,17 @@
+img {
+  float: right;  
+  margin: 1px;
+}
+p {
+  font-size: smaller;
+}
+span {
+  display: block;
+}
+#delicious {
+  font-size: 30px;
+}
+#img-logo {
+  float: left;
+}
+
