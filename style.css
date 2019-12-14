@@ -21,12 +21,39 @@ span {
 .recipe {
   background-image: url(img/list-bg.png); 
 }
+li{
+  padding: 10px;
+}
 ul{
   list-style-type: none;
+  display: inline-block;
+ 
+  font-family: 'Patrick Hand', cursive;
+
+}
+#recipe2 {
+  margin-left: 100px;
 }
 #img-van{
   float: left;
+
 }
 #vanessa{
   font-size: medium;
+}
+body {
+  margin:20px 150px 20px 150px ;
+  width: 900px;
+}
+#share {
+  float: right;
+  background-color: brown;
+}
+.pgraph {
+  font-size: 20px;
+}
+#footimg {
+  margin: 100;
+}
+#foottext {
 }
